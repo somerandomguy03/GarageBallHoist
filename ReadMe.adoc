@@ -3,6 +3,6 @@
 :Revision: version# 00
 :License: CC BY-NC-SA 4.0
 
-= Project: {Arduino Sketch for Garage Parking Aid Ball Hoist}
+= Project: Arduino Sketch for Garage Parking Aid Ball Hoist
 
 Please see https://www.thingiverse.com/thing:5179519 for additional information regarding this project.
