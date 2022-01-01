@@ -1,8 +1,8 @@
 {
   "cpu": {
-    "fqbn": "arduino:avr:nano:cpu=atmega328old",
-    "name": "Arduino Nano",
-    "type": "serial"
+    "fqbn": "",
+    "name": "",
+    "type": ""
   },
   "secrets": [],
   "included_libs": []
